@@ -270,7 +270,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             {/* Logo and Brand */}
-            <div className="flex items-center space-x-4 -ml-48">
+            <div className="flex items-center space-x-4">
               <div>
              <img src="/image.png" alt="Chelto Logo" className="w-14 h-14" />
             </div>
